@@ -6,7 +6,7 @@
 #SBATCH --tasks-per-node 1
 #SBATCH --gpus 1
 #SBATCH --cpus-per-gpu 36
-#SBATCH --time 45:00:00
+#SBATCH --time 20:00:00
 #SBATCH --job-name OpticalFlowTVL1-validation
 
 # drop into baskerville
